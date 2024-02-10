@@ -23,7 +23,7 @@ List<CategoryModel> getCategories() {
 
   //3
 
-  categoryModel = new CategoryModel();
+  categoryModel = CategoryModel();
   categoryModel.categoryName = "General";
   categoryModel.imageUrl =
       "https://images.unsplash.com/photo-1503428593586-e225b39bddfe?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
@@ -31,7 +31,7 @@ List<CategoryModel> getCategories() {
 
 //4
 
-  categoryModel = new CategoryModel();
+  categoryModel = CategoryModel();
   categoryModel.categoryName = "Health";
   categoryModel.imageUrl =
       "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1598&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
@@ -39,7 +39,7 @@ List<CategoryModel> getCategories() {
 
 //5
 
-  categoryModel = new CategoryModel();
+  categoryModel = CategoryModel();
   categoryModel.categoryName = "Science";
   categoryModel.imageUrl =
       "https://images.unsplash.com/photo-1535136104956-115a2cd67fc4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
@@ -47,7 +47,7 @@ List<CategoryModel> getCategories() {
 
 //6
 
-  categoryModel = new CategoryModel();
+  categoryModel = CategoryModel();
   categoryModel.categoryName = "Sports";
   categoryModel.imageUrl =
       "https://plus.unsplash.com/premium_photo-1676634832558-6654a134e920?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
@@ -55,7 +55,7 @@ List<CategoryModel> getCategories() {
 
   //7
 
-  categoryModel = new CategoryModel();
+  categoryModel = CategoryModel();
   categoryModel.categoryName = "Technology";
   categoryModel.imageUrl =
       "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";

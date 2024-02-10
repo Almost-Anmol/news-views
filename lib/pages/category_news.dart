@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class _CategoryNewState extends StatefulWidget {
-  const _CategoryNewState({super.key});
+  const _CategoryNewState();
 
   @override
   State<_CategoryNewState> createState() => __CategoryNewStateState();
